@@ -3,7 +3,7 @@ Contributors: wnorris, erans
 Tags: microid
 Requires at least: 1.5
 Tested up to: 2.1.2
-Stable tag: trunk
+Stable tag: 1.0
 
 Add MicroIDs to your blog to enable ownership claims with third-parties.
 
