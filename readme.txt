@@ -16,6 +16,11 @@ an additional identifier you provide.
 
 [microid.org]: http://microid.org/
 
+Partially inspired by other MicroID plugins by [Richard Miller][] and [Eran Sandler][].
+
+[Richard Miller]: http://www.richardkmiller.com/wp-microid
+[Eran Sandler]: http://eran.sandler.co.il/microid-wordpress-plugin/
+
 == Installation ==
 
 This plugin follows the standard WordPress installation method:
