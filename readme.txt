@@ -39,3 +39,8 @@ so that I'll see your post.  Additionally, you can file a bug report at
 <http://dev.wp-plugins.org/report>.
 
 [WordPress.org Support Forum]: http://wordpress.org/support/
+
+== Screenshots ==
+
+1. Add a new MicroID using an Identity URI or the default admin data.
+
