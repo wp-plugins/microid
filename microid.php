@@ -3,7 +3,7 @@
 Plugin Name: MicroID
 Plugin URI: http://willnorris.com/projects/wp-microid
 Description: Adds a MicroID to your WordPress blog
-Version: 1.0
+Version: 1.1
 Author: Will Norris
 Author URI: http://willnorris.com/
 */
