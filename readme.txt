@@ -1,5 +1,5 @@
 === MicroID ===
-Contributors: wnorris, erans
+Contributors: willnorris
 Tags: microid
 Requires at least: 1.5
 Tested up to: 2.6.1
